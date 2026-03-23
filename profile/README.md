@@ -24,6 +24,8 @@
 curl -sL https://raw.githubusercontent.com/hli-ai-invest/project-setup/main/setup.sh | bash -s python
 ```
 
+세팅 내용은 [project-setup/claude-md-templates](https://github.com/hli-ai-invest/project-setup/tree/main/claude-md-templates) 참고
+
 ## 🚀 시작하기
 
 1. org에 repo 생성 (네이밍 규칙 참고)
