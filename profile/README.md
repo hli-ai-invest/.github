@@ -24,7 +24,7 @@
 curl -sL https://raw.githubusercontent.com/hli-ai-invest/project-setup/main/setup.sh | bash -s python
 ```
 
-세팅 내용은 [project-setup/claude-md-templates](https://github.com/hli-ai-invest/project-setup/tree/main/claude-md-templates) 참고
+상세 내용 및 변경 요청: [project-setup](https://github.com/hli-ai-invest/project-setup) (수정 시 PR 필수)
 
 ## 🚀 시작하기
 
