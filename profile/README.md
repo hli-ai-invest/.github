@@ -27,5 +27,5 @@ curl -sL https://raw.githubusercontent.com/hli-ai-invest/project-setup/main/setu
 ## 시작하기
 
 1. org에 repo 생성 (네이밍 규칙 참고)
-2. 위 세팅 스크립트 실행
-3. `CLAUDE.md`에서 프로젝트명/설명 수정
+2. 위 세팅 스크립트 실행 (선택)
+3. `CLAUDE.md`에서 프로젝트명/설명 수정 (선택)
