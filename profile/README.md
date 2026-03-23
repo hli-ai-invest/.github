@@ -1,22 +1,18 @@
 # hli-ai-invest
 
+투자AI팀 임시 레포
+
 ## Repo 네이밍 규칙
 
-### 토이 프로젝트
-
-**`toy-{프로젝트명}-{이름}`**
-
-- 소문자, 하이픈으로 연결
-- 프로젝트명은 간결하게 (1~2단어)
-- 이름은 영문 성 또는 닉네임
+**`toy-{프로젝트명}`** (중복 시 이름 추가: `toy-{프로젝트명}-{이름}`)
 
 ```
-toy-chat-bot-hong
-toy-stock-api-kim
-toy-todo-app-lee
+toy-morning-brief
+toy-morning-brief-jhlee
+toy-stock-api
 ```
 
-### 프로젝트 초기 세팅
+## 프로젝트 초기 세팅
 
 ```bash
 curl -sL https://raw.githubusercontent.com/hli-ai-invest/toy-project/main/setup.sh | bash -s <template>
