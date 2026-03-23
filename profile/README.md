@@ -15,7 +15,7 @@ toy-stock-api
 ## 프로젝트 초기 세팅
 
 ```bash
-curl -sL https://raw.githubusercontent.com/hli-ai-invest/toy-project/main/setup.sh | bash -s <template>
+curl -sL https://raw.githubusercontent.com/hli-ai-invest/project-setup/main/setup.sh | bash -s <template>
 ```
 
 **템플릿:** `python`
