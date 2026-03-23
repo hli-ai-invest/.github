@@ -1,6 +1,6 @@
 # 🏦 hli-ai-invest
 
-투자AI팀
+💡 투자AI팀 임시 레포입니다! 💡
 
 ## 📁 Repo 네이밍 규칙
 
