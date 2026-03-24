@@ -30,8 +30,10 @@ cp .env.example .env   # 복사 후 실제 키 값 입력
 ## ⚡ 프로젝트 초기 세팅
 
 ```bash
-curl -sL https://raw.githubusercontent.com/hli-ai-invest/project-setup/main/setup.sh | bash -s python
+gh api repos/hli-ai-invest/project-setup/contents/setup.sh -H "Accept: application/vnd.github.raw+json" | bash -s python
 ```
+
+> ℹ️ private 레포이므로 [gh CLI](https://cli.github.com/)가 설치 및 인증(`gh auth login`)되어 있어야 합니다.
 
 📦 상세 내용 및 변경 요청: [project-setup](https://github.com/hli-ai-invest/project-setup) (수정 시 PR 필수)
 
